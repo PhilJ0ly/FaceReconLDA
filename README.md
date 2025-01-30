@@ -1,7 +1,7 @@
 # FaceReconLDA
 Facial Recognition using Linear Discriminant Analysis, Principal Component Analysis, and Singular Value Decomposition.
 
-##ABSTRACT
+## ABSTRACT
 
 Whether it is on the latest smart phone or passing through airport security, we interact with facial
 recognition everyday. This feat of computer vision may seem magical; however, it relies heavily on
